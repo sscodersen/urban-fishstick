@@ -5,100 +5,29 @@ body {
 
 :root {
   /* fonts */
-  --wwwmaxaime-mulish-regular-14-underline: Mulish;
+  --font-inter: Inter;
+  --font-bebas-neue: "Bebas Neue";
 
   /* font sizes */
-  --wwwmaxaime-mulish-regular-14-underline-size: 14px;
-  --wwwmaxaime-mulish-regular-16-size: 16px;
-  --wwwmaxaime-mulish-extrabold-20-size: 20px;
-  --wwwmaxaime-mulish-bold-24-size: 24px;
-  --font-size-lgi: 19px;
-  --wwwmaxaime-mulish-bold-48-size: 48px;
-  --font-size-10xl: 29px;
-  --font-size-19xl: 38px;
-  --wwwmaxaime-mulish-bold-18-size: 18px;
-  --wwwmaxaime-mulish-bold-36-size: 36px;
-  --font-size-3xl: 22px;
-  --wwwmaxaime-mulish-bold-56-size: 56px;
-  --font-size-15xl: 34px;
-  --font-size-26xl: 45px;
-  --wwwmaxaime-mulish-bold-40-size: 40px;
-  --wwwmaxaime-mulish-bold-32-size: 32px;
-  --font-size-7xl: 26px;
+  --font-size-lg: 18px;
+  --font-size-base-1: 16.1px;
+  --font-size-2xl: 21px;
 
   /* Colors */
-  --wwwmaxaime-nero: #fff;
-  --wwwmaxaime-black-60: rgba(0, 0, 0, 0.6);
-  --wwwmaxaime-black-87: rgba(0, 0, 0, 0.87);
-  --wwwmaxaime-black-8: rgba(0, 0, 0, 0.08);
-  --wwwmaxaime-black-12: rgba(0, 0, 0, 0.12);
-  --wwwmaxaime-wisteria: #9065b0;
-  --wwwmaxaime-wisteria-50: rgba(144, 101, 176, 0.5);
-  --wwwmaxaime-wisteria-24: rgba(144, 101, 176, 0.24);
-  --wwwmaxaime-athens-gray: #f9fafb;
-  --wwwmaxaime-mercury: #eaeaea;
-  --wwwmaxaime-chateau-green: #34a853;
-  --wwwmaxaime-dodger-blue: #248ffa;
-  --wwwmaxaime-turbo1: #f4ebff;
-  --wwwmaxaime-turbo: #dfdcff;
-  --color-plum: #a880c9;
-  --wwwmaxaime-chartreuse-yellow: #e6f0ff;
-  --wwwmaxaime-pattens-blue: #e0f2fe;
-  --wwwmaxaime-bright-turquoise: #fff6d6;
-  --wwwmaxaime-blue-romance: #d3f8df;
-  --wwwmaxaime-bright-turquoise1: #ffebeb;
+  --color-white: #fff;
+  --blue-1: #2f80ed;
 
   /* Gaps */
   --gap-xl: 20px;
-  --gap-29xl: 48px;
-  --gap-5xl: 24px;
-  --gap-5xs: 8px;
-  --gap-base: 16px;
-  --gap-15xl-6: 34.6px;
-  --gap-mid: 17px;
-  --gap-9xs: 4px;
-  --gap-10xs: 3px;
+  --gap-23xl: 42px;
+  --gap-2xl: 21px;
+  --gap-lg: 18px;
+  --gap-lg-6: 18.6px;
 
   /* Paddings */
-  --padding-xl: 20px;
-  --padding-164xl: 183px;
-  --padding-29xl: 48px;
-  --padding-base: 16px;
-  --padding-33xl: 52px;
-  --padding-5xl: 24px;
-  --padding-13xl: 32px;
-  --padding-89xl: 108px;
+  --padding-lg: 18px;
   --padding-xs: 12px;
-  --padding-9xs: 4px;
-  --padding-7xl: 26px;
-  --padding-11xl: 30px;
-  --padding-53xl: 72px;
-  --padding-6xs: 7px;
-  --padding-5xs: 8px;
-  --padding-6xl: 25px;
-  --padding-76xl: 95px;
-  --padding-43xl: 62px;
-  --padding-21xl: 40px;
-  --padding-168xl-5: 187.5px;
-  --padding-103xl: 122px;
-  --padding-12xl: 31px;
-  --padding-3xl: 22px;
-  --padding-2xl: 21px;
-  --padding-34xl: 53px;
-  --padding-mini: 15px;
-  --padding-25xl: 44px;
-  --padding-28xl: 47px;
-  --padding-5xl-1: 24.1px;
-  --padding-2xs-6: 10.6px;
-  --padding-65xl: 84px;
-  --padding-23xl: 42px;
-  --padding-77xl: 96px;
-  --padding-88xl: 107px;
-  --padding-sm: 14px;
-  --padding-72xl: 91px;
 
   /* Border radiuses */
-  --br-5xs: 8px;
-  --br-base: 16px;
-  --br-5xl: 24px;
+  --br-lg: 18px;
 }
